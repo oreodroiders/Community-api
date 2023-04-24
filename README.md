@@ -30,6 +30,17 @@ Join *OreoDroiders* [Whatsapp Community](https://chat.whatsapp.com/GtW7GwySGDhCk
   ## Usage of this API
   > OreoDroiders Android Team is working on an App for our community where we will use this api to display amazing members of the community.
   
+  ### Endpoints of the API
+  
+  Base URL 
+  https://oreodroiders.github.io/Community-api/
+  
+  ##### Endpoints
+  
+  /members.json
+  > returns the json response of all the members details
+  
+  
   ## Feedbacks & Issues
   
   Feel free to raise a genuine issue and our team would try their best to resolve it ASAP .
