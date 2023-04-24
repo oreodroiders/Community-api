@@ -1,4 +1,4 @@
-# Community-Members
+# Community
 If you are a OreoDroiders Community Member add your name by creating a  PR to this repo .
 
 ## Invite link to Join OreoDroiders Community
