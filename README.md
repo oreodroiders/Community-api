@@ -27,7 +27,7 @@ Join *OreoDroiders* [Whatsapp Community](https://chat.whatsapp.com/GtW7GwySGDhCk
 - On the top right of the JSON file, click on the pencil icon to edit the file by adding your name , email , twitter id and linkedin id.
 - After editing the JSON file, add a commit message and click on the green button saying "Commit Changes". 
 
-5. Raise a Pull Request:
+5. Raise a Pull Request :
 
 - And finally create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
