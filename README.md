@@ -25,7 +25,6 @@ Join *OreoDroiders* [Whatsapp Community](https://chat.whatsapp.com/GtW7GwySGDhCk
 3. Edit:
 
 - On the top right of the JSON file, click on the pencil icon to edit the file by adding your name , email , twitter id and linkedin id.
-- After editing the JSON file, add a commit message and click on the green button saying "Commit Changes". 
 
  By the reference of template given below , you can add your details :
 ```
@@ -36,6 +35,8 @@ Join *OreoDroiders* [Whatsapp Community](https://chat.whatsapp.com/GtW7GwySGDhCk
     "linkedin" : " " 
   } 
   ```
+  
+  - After editing the JSON file, add a commit message and click on the green button saying "Commit Changes". 
   
 4. Raise a Pull Request :
 
