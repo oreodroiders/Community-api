@@ -12,11 +12,25 @@ Join *OreoDroiders* [Whatsapp Community](https://chat.whatsapp.com/GtW7GwySGDhCk
 - follow the correct format ; get reference from others who have added themselves
 -  do not add your name  in between or above others , add your name at the end
  
-#### How to Add your name
+## 🔥 Add your profile
 
-- fork this Repo 
-- In the members.json file add your details 
-- Copy the below format and update your details
+1. Fork the project:
+
+- Click the `Fork` button in the top right of this page. This creates  your copy of the project and saves it as a new repository in your github account
+
+2. Navigate to file:
+
+- Navigate to the members.json file.
+
+3. Edit:
+
+- On the top right of the JSON file, click on the pencil icon to edit the file by adding your name , email , twitter id and linkedin id.
+- After editing the JSON file, add a commit message and click on the green button saying "Commit Changes". 
+
+4. Raise a Pull Request :
+
+- And finally create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+
 
 ```
  , {
